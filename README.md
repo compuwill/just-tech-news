@@ -9,6 +9,7 @@ This application has the following features:
 - Users can create and manipulate comments on post data
 
 Follow the routes to see in detail what is available or use the following summary:
+
 ![image](https://user-images.githubusercontent.com/22924230/160756061-46f6f321-bfed-4b7d-8ae0-ba0659cf06af.png)
 
 
