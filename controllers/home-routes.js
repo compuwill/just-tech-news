@@ -18,6 +18,8 @@ router.get("/", (req, res) => {
         "vote_count",
       ],
     ],
+    // ORDER BY
+    order: [["created_at", "DESC"]],
     include: [
       {
         model: Comment,
